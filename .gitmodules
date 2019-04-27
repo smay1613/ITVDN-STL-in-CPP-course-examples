@@ -1,0 +1,9 @@
+[submodule "SetLesson"]
+	path = Containers/SetLesson
+	url = git@github.com:smay1613/SetLesson.git
+[submodule "VectorLesson"]
+	path = Containers/VectorLesson
+	url = git@github.com:smay1613/VectorLesson.git
+[submodule "ListLesson"]
+	path = Containers/ListLesson
+	url = git@github.com:smay1613/ListLesson.git
