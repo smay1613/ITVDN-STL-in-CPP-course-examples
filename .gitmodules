@@ -7,3 +7,6 @@
 [submodule "ListLesson"]
 	path = Containers/ListLesson
 	url = git@github.com:smay1613/ListLesson.git
+[submodule "Containers/MapLesson"]
+	path = Containers/MapLesson
+	url = git@github.com:smay1613/MapLesson.git
