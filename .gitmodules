@@ -16,3 +16,6 @@
 [submodule "Containers/StackLesson"]
 	path = Containers/StackLesson
 	url = git@github.com:smay1613/StackLesson.git
+[submodule "Containers/UnorderedMapLesson"]
+	path = Containers/UnorderedMapLesson
+	url = git@github.com:smay1613/UnorderedMapLesson.git
