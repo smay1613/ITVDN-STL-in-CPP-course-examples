@@ -10,3 +10,9 @@
 [submodule "Containers/MapLesson"]
 	path = Containers/MapLesson
 	url = git@github.com:smay1613/MapLesson.git
+[submodule "Containers/QueueLesson"]
+	path = Containers/QueueLesson
+	url = git@github.com:smay1613/QueueLesson.git
+[submodule "Containers/StackLesson"]
+	path = Containers/StackLesson
+	url = git@github.com:smay1613/StackLesson.git
